@@ -8,7 +8,9 @@ https://github.com/bowang-lab/scGPT
 
 ## Data:
 Dataset 1: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155673 
+
 Dataset 2: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166992
+
 Datasets were downloaded from sCOVID atlas: http://bio-computing.hrbmu.edu.cn/scovid/#/home
 
 ## scripts

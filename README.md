@@ -15,6 +15,7 @@ Datasets were downloaded from sCOVID atlas: http://bio-computing.hrbmu.edu.cn/sc
 
 ## scripts
 Script folder contains three file:
+
 scgpt_SSPL.ipynb : This file applies similarity search prototype learning on the 2 datasets
 
 scgpt_linear_prob.ipynb : This file applies linear probing on the 2 datasets
